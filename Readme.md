@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @Marinamaatas
+<div style="text-align: center;"> <h1>👋 Hi, I’m @Marinamaatas </h1> </div>
 - 👩🏻‍💻 Currently, I am studing in <a href="https://42.fr/en/homepage/">42</a>.
 - 👩🏻‍🏫 Previusly, I have studied Marketing Digital.
 - 🔎 I am seeking a junior position in the field of programming.

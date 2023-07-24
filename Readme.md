@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m @Marinamaatas
 - 👩🏻‍💻 Currently, I am studing in 42.
 - 👩🏻‍🏫 Previusly, I have studied Marketing Digital.

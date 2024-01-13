@@ -2,7 +2,7 @@
 <div align= "center"> <h2>👋 Hi, I’m @Marinamaatas </h2> </div>
 <ul>
 <li> 👩🏻‍💻 Currently, I am studing in <a href="https://42.fr/en/homepage/">42</a> and studing Full Stack Developer in <a href="https://www.develhope.co/es/sign-up/">Develhope</a>.</li>
-<li> 👩🏻‍🏫 Previusly, I have studied Marketing Digital ans UX/UI Design.</li>
+<li> 👩🏻‍🏫 Previusly, I have studied Marketing Digital and UX/UI Design.</li>
 <li> 🔎 I am seeking a junior position in the field of Full Stack Developer.</li>
 <li> 📫 Find me on my <a href="www.linkedin.com/in/marina-matas-mata-38a659165">LinkedIn</a></li>
 </ul>
